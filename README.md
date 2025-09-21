@@ -47,6 +47,7 @@ TheraMate includes several **interactive games & exercises**:
 ---
 
 ## 🛠️ Project Structure
+~~~
 
 mental_health_app/
 │
@@ -61,3 +62,6 @@ mental_health_app/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+
+~~~
+
