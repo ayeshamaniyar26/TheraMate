@@ -31,8 +31,7 @@ Designed to be **simple, calming, and user-friendly**, TheraMate provides a safe
 ### 🎮 Wellness Games
 TheraMate includes several **interactive games & exercises**:
 - **Would You Rather?** 🤔 → Fun choices that spark reflection.  
-- **Gratitude Spinner** 🌸 → Encourages sharing gratitude.  
-- **Bubble Pop (Stress Relief)** 🫧 → Tap bubbles to relax.  
+- **Gratitude Spinner** 🌸 → Encourages sharing gratitude. 
 - **Emoji Mood Match** 🎨 → Express mood using colors/emojis.  
 - **Positive Affirmation Cards** ✨ → Random uplifting messages.  
 
